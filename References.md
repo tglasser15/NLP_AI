@@ -3,4 +3,4 @@
 *see page 33-35 of textbook - example programs (Eliza) <br>
 *<a href="http://research.microsoft.com/en-us/groups/nlp/">Overview and Current/Older Projects</a> <br>
 *<a href="http://research.google.com/pubs/NaturalLanguageProcessing.html">Scholar articles</a> <br>
-*<a href="http://www.hit.ac.il/staff/leonidM/information-systems/ch68.html>Concepts and diagram</a> <br>
+*<a href="http://www.hit.ac.il/staff/leonidM/information-systems/ch68.html">Concepts and diagram</a>
