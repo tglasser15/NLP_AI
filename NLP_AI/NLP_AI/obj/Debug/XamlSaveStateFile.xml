@@ -1,11 +1,7 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\moorealec\documents\visual studio 2013\projects\nlp_ai\nlp_ai\obj\debug\intermediatexaml\nlp_ai.exe" HashGuid="8467fd13-6c01-2abe-1b38-424b657c6e6c" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.0\references\commonconfiguration\x64\bing.speech.winmd" HashGuid="78cc0b18-1898-b560-d95b-a2c1b0272c37" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.0\references\commonconfiguration\x64\bing.speech.xaml.speechrecognizerux.dll" HashGuid="02e0b670-4541-864a-a748-04db72ab7524" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.0\references\commonconfiguration\x64\microsoft.bing.platform.logging.clientwinrt.dll" HashGuid="880dc8eb-4a76-a58d-fe87-39f8d9a71513" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.0\references\commonconfiguration\x64\microsoft.speech.voiceservice.audio.winmd" HashGuid="31e816d9-de92-911f-9736-c03382b1d675" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\bing.speech\1.0\references\commonconfiguration\x64\microsoft.speech.voiceservice.mssraudio.winmd" HashGuid="31af4e04-488e-c9c0-e19e-64d746b95264" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\tommy\documents\github\nlp_ai\nlp_ai\nlp_ai\bin\debug\bing.speech.xaml.speechrecognizerux.dll" HashGuid="02e0b670-4541-864a-a748-04db72ab7524" />
+    <ReferenceAssembly PathName="c:\users\tommy\documents\github\nlp_ai\nlp_ai\nlp_ai\bin\debug\microsoft.bing.platform.logging.clientwinrt.dll" HashGuid="880dc8eb-4a76-a58d-fe87-39f8d9a71513" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>
