@@ -37,3 +37,41 @@ C:\Users\MooreAlec\documents\visual studio 2013\Projects\NLP_AI\NLP_AI\bin\Debug
 C:\Users\MooreAlec\documents\visual studio 2013\Projects\NLP_AI\NLP_AI\bin\Debug\Microsoft.Speech.VoiceService.MSSRAudio.winmd
 C:\Users\MooreAlec\documents\visual studio 2013\Projects\NLP_AI\NLP_AI\obj\Debug\Bing.Speech.Xaml.SpeechRecognizerUx\VoiceUIControl.xbf
 C:\Users\MooreAlec\documents\visual studio 2013\Projects\NLP_AI\NLP_AI\obj\Debug\NLP_AI.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\NLP_AI.exe
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\NLP_AI.pdb
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\NLP_AI.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\App.g.i.cs
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\App.g.cs
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\MainPage.g.i.cs
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\MainPage.g.cs
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\App.xaml
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\MainPage.xaml
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\App.xbf
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\MainPage.xbf
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\App.xbf
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\MainPage.xbf
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\NLP_AI.exe
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\NLP_AI.pdb
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\resources.pri
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\AppxManifest.xml
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\NLP_AI.build.appxrecipe
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\Bing.Speech.winmd
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\Microsoft.Speech.VoiceService.MSSRAudio.winmd
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\Microsoft.Speech.VoiceService.Audio.winmd
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\Microsoft.Speech.VoiceService.MSSRAudio.dll
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\bin\Debug\Microsoft.Speech.VoiceService.Audio.dll
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\NLP_AI.csproj.GenerateResource.Cache
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\priconfig.xml
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\layout.resfiles
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\resources.resfiles
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\pri.resfiles
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\qualifiers.txt
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tommy\Documents\GitHub\NLP_AI\NLP_AI\NLP_AI\obj\Debug\ProjectArchitectures.txt
